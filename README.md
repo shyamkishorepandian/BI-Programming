@@ -33,9 +33,9 @@ The dataset has the following information:
 ## Process
 -------------------------
 Step 1: We have done Exploratory Data Analysis (EDA) on our dataframe. 
-Step 2: Train and Test Data split.
-Step 3: Model Training (Models used: Logistic Regression and Random Forest Models).
-Step 4: Model Evaluation and Analysis.
+<br>Step 2: Train and Test Data split.
+<br>Step 3: Model Training (Models used: Logistic Regression and Random Forest Models).
+<br>Step 4: Model Evaluation and Analysis.
 
 -------------------------
 ## Conclusion
